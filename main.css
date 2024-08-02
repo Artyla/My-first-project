@@ -1,0 +1,79 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(206, 158, 195);
+
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar{
+    width: 20%;
+    height: 250px;
+    
+}
+.h1{
+    font-size: 28px;
+}
+.h2{
+    color: rgb(100, 46, 46);
+}
+
+main{
+    border: 1px solid darkgrey;
+    text-align: center;
+}
+
+.skils  ol{
+    list-style: none;
+
+}
+
+.hr{
+    width: 50%;
+    height: 3px;
+    background-color: rgb(100, 46, 46);
+}
+.video iframe{
+    width: 800px;
+    height: 400px;
+}
+
+.ed-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ed-table th,
+.ed-table td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.quote{
+    font-size: 33px;
+}
+
+.form input {
+width: 100%;
+}
+
+.textarea{
+    width: 70%;
+}
+.button{
+    display: block;
+    margin: 0 auto;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: rgb(210, 204, 211);
+}
+
+.contacts_link{
+text-decoration: none;
+color: black;
+}
